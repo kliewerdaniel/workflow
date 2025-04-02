@@ -42,9 +42,9 @@ Once you’ve cloned the repository, you can customize the core documentation fo
 Review & Annotate Code
 
 Once AI generates the code, you can review it and annotate any security or quality issues. Flag issues with the following format:
-
+```
 # SECURITY_REVIEW_NEEDED
-
+```
 Once reviewed and validated, commit the code using Conventional Commits.
 
 Deployment
