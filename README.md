@@ -427,14 +427,6 @@ Prompt style: User-focused, empathetic
 Example: "As a UX expert, review this registration flow for potential friction points and accessibility issues."
 ```
 
-## Integration with kliewerdaniel/workflow
-
-The kliewerdaniel/workflow repository can be integrated into this approach as follows:
-
-1. **Chat Integration**: Use the repository's CLI tools to chat with your markdown files
-2. **Knowledge Base**: Organize your project documentation in a format compatible with the repository
-3. **Learning Reinforcement**: Use the repository's features to review and reinforce concepts from your documentation
-
 ## Conclusion
 
 The methodology presented by the kliewerdaniel/workflow repository offers a powerful approach to AI-assisted development that:
