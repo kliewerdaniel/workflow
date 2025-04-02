@@ -1,8 +1,4 @@
----
 
-## 📜 `seo.md` (SEO Best Practices)  
-
-```md
 # SEO Best Practices  
 
 ## 🔹 General SEO Strategy  
