@@ -29,7 +29,7 @@ Clone the Template Repository
 
 To get started, clone the template repository:
 
-git clone https://github.com/danielkliewer/workflow.git
+git clone https://github.com/kliewerdaniel/workflow.git
 cd workflow
 
 Customizing Core Documentation
